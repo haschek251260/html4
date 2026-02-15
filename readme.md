@@ -4,7 +4,7 @@ Beschreibung deines Projekts hier; eine neues Repo erstellen
 
 ## Features
 - Beginne mit readme.md
-- Feature 2
+- weiter mit index.html
 
 ## Installation
 Anleitung zur Installation...
